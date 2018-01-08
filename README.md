@@ -29,8 +29,10 @@ Using Web Sockets to consume reactive data.
 
 Using websockets we receive reactive events to change de state of the app.
 
-# Classifiers
+# Classifiers (Clustering)
 Made in Golang
+
+(Cluster analysis)[https://en.wikipedia.org/wiki/Cluster_analysis]
 
 ## System 1
 Get all the resources and classify by its category proximity, e.g: comedy, drama, etc
