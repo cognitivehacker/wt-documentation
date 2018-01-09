@@ -6,7 +6,7 @@ wt-documentation | Javascript | gitbook |Using javascript to generate html docum
 wt-api | Java | Vertx | Rest Api
 wt-sockets | Elixir | Phoenix | Websocket server for the webclient
 wt-webclient | Javascript | VueJs | Front End Interface
-"Classifiers" | Go | ? | Classifiers and ML
+"Classifiers" | Golang | ? | Classifiers and ML
 
 Using:
 * Websockets
@@ -16,6 +16,16 @@ Using:
 * GraphQL ?
 * Apache Solr
 * Elixir - GenServer
+* RabitMQ ?
+* Apache Spark ?
+
+## Development
+* Git flow
+* Merge Requests
+* Code review
+* TDD
+* Travis tests
+* ?Deploy?
 
 ## wt-api
 
@@ -43,7 +53,7 @@ Get all the resources and use an aproximation classification by its synopsis.
 ## System 3
 Get all the resources and use an aproximation classification by its subtitles.
 
-# System 0 - Ensemble methods
+## System 0 - Ensemble methods
 The goal of ensemble methods is to combine the predictions of several base estimators built with a given learning algorithm in order to improve generalizability / robustness over a single estimator.
 
 # Resource Rating
@@ -52,3 +62,24 @@ Generate a Map.
 
 # Comparator
 Compare the two persons maps created with the resource rating, and get the recomendations.
+
+# Todo
+
+* Facebook login and app authorization
+* Select liked categories
+* Rating System, 5 stars
+* Search System (apache solr)
+* Add/List/Remove Friends, get from facebook
+* Share your movie reviews and/or rating
+* Share watched episodes of your current watching tv show
+* Recomend tv shows/movies to your friends
+* Create lists, e.g: top 10 movies of 2017
+* Geolocalization of close cinemas for your movies recomendations
+* Upcomming movies/tv shows
+* What movies you want to watch, recomend for your friends that want to watch it too
+* Show your friends movies watched or want to watch
+* Rate movies you do not want to watch, or dislike
+* Show movies that is on top recomendations, or top watched
+* In your profile, show how many hours of content you spend
+* In your profile, show your frequency
+* Get feedback of recommended movies, ?backpropagation to fix issues?
