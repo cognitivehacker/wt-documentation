@@ -1,5 +1,8 @@
 # Projects
 
+This project is for study purposes, we are not using the best tecnologies to fit the requirements, that's not the point.
+The point off all of this is to improve in the knowledge of the above tecnologies.
+
 Name | Language | Framework | Description
 ---- | -------- | --------- | -----------
 wt-documentation | Javascript | gitbook |Using javascript to generate html documentation
