@@ -1,5 +1,8 @@
 # Projects
 
+This project is for study purposes, we are not using the best tecnologies to fit the requirements, that's not the point.
+The point off all of this is to improve in the knowledge of the above tecnologies.
+
 Name | Language | Framework | Description
 ---- | -------- | --------- | -----------
 wt-documentation | Javascript | gitbook |Using javascript to generate html documentation
@@ -82,4 +85,15 @@ Compare the two persons maps created with the resource rating, and get the recom
 * Show movies that is on top recomendations, or top watched
 * In your profile, show how many hours of content you spend
 * In your profile, show your frequency
+* In your profile, show your badges
+* In your profile, show your pontuation (Gamification to change your dashboard)
 * Get feedback of recommended movies, ?backpropagation to fix issues?
+
+
+# Recomendations
+
+* In your friends profile see the movies they watched and you dont recomendations
+* In your friends profile see the movies they didnt watch and you do recomendations
+* In your friends profile see the movies both of you didnt watch recomendations
+* Same tv shows you both watch, and how many episodes you are behind to see together
+* Tv Shows you both want to watch
